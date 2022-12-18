@@ -3,6 +3,7 @@ eda_2 = float(input('Укажите стоимость 2го блюда: '))
 eda_3 = float(input('Укажите стоимость 3го блюда: '))
 eda_4 = float(input('Укажите стоимость 3го блюда: '))
 eda_5 = float(input('Укажите стоимость 3го блюда: '))
+учеба
 
 
 eda_vsego = eda_1+eda_2+eda_3+eda_4+eda_5
