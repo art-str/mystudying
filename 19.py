@@ -365,7 +365,6 @@ import random
 def chisla ():
     total_a = 0
     total_b = 0
-
     for c in range(30):
         number = random.randint(1,30)
         print(number)
@@ -424,7 +423,6 @@ glavnaya()
 
 # 20 Игра в угадываенгие случайного числа
 import random
-
 def ugadat_chislo():
     again = 'д'
     total_number = 0
