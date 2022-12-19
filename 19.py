@@ -384,7 +384,7 @@ def is_prime(number):
         return True
     else:
         return False
-    return False
+
 again = 'д'
 while again == 'д' or again == 'Д':
     print('Сейчас программа проверит является ли число простым или сложным')
